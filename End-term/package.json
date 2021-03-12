@@ -1,0 +1,22 @@
+{
+  "name": "end-term",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": ": "
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Nurmahan24/endterm.git"
+  },
+  "keywords": [
+    "about",
+    "video",
+    "study",
+    "graduation"
+  ],
+  "author": "Tabilov Nurmahan <nurmahan_tabilov@mail.ru>",
+  "license": "ISC"
+}
+
